@@ -41,7 +41,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h2>The FIELD &rarr;</h2>
+            <h2>Professional Sports &rarr;</h2>
             <p>
               FC Barcelona, Barça, Barça B, Femeni, Basquet, Events Burocratics
               i Hockey.
@@ -54,7 +54,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.card}
           >
-            <h2>Surfing skies &rarr;</h2>
+            <h2>Drone Pilot &rarr;</h2>
             <p>Mavic 2 Pro built in Hasselblad camera shootings sessions.</p>
           </a>
 
@@ -64,7 +64,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h2>Thanks ELON Musk &rarr;</h2>
+            <h2>RACING &rarr;</h2>
             <p>Tesla Motors collab, Model X, Barcelona EXPO.</p>
           </a>
 
@@ -136,7 +136,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          See the code. 2022 © AirDetails, all rights reserved.
+          See the code. 2023 © AirDetails, all rights reserved.
         </a>
       </footer>
     </div>
