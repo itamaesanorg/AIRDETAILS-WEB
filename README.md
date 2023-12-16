@@ -1,13 +1,14 @@
-#### This is a Next 13 project app.
+> [!WARNING]  
+> We have only 1 official domain: is itamaesan.org, anything else is non official.
 
 ![ITAMAESAN SushiJS Wallpaper Best Light NNextJS Framework with Husky fixed](https://user-images.githubusercontent.com/5947268/185643867-81854585-1f24-470e-9836-2a8b9c62c8dd.png)
 
-
-## ITAMAESAN 2023
+## ITAMAESAN
 ### ITAMAESAN ORG is an open source organization that aims to promote the use of open source software in the web development industry.
 
 - [ITAMAESAN](https://github.com/itamaesanorg/)
-- [SushiJS](https://github.com/sushi-js/)
+- [PylarOS](https://github.com/miguelgargallo/pylaros)
+- [Sushis](https://github.com/sushi-js/)
 
 
 ## Learn with ITAMAESAN University
@@ -28,9 +29,6 @@
 ### ITAMAESAN developed SushiJS Framework, SushiJS, a complete utlimate NextJS 12, TypeScript, TailwindCSS with Framer Motion.
 
 - [The Framework, SushiJS](https://github.com/itamaesanorg/SushiJS)
-- [The Boilerplate, SushiJS](https://github.com/sushi-js/SushiJS-Example-01)
-- [Real Business Case, SushiJS](https://demo-01.sushijs.com/)
-
 
 ## About Wri
 
@@ -54,13 +52,11 @@
 ### Giveaway Tool is a website HTML to create giveways. Just upload and play.
 
 - [Giveaway code](https://github.com/itamaesanorg/giveawaytool)
-- [Giveaway in Action](https://giveawaytool.sushijs.com/)
+- [Giveaway in Action](https://giveawaytool.vercel.app/)
 
 
 ## Official Sites
 - [ITAMAESAN Site](https://itamaesan.org)
-- [SushiJS Site](https://sushijs.com)
-
 
 ## Twitter
 - [Twitter](https://twitter.com/itamaesanorg)
